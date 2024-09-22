@@ -10,7 +10,7 @@ export default function Index(){
       />
 
       <Text style={styles.title}>
-        Dieta<Text style={{ color: colors.white }}>.AI</Text>
+        Dieta<Text style={{ color: colors.white }}>.IA</Text>
       </Text>
 
       <Text style={styles.text}>
